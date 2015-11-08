@@ -1,5 +1,6 @@
 # Analiza podatkov s programom R, 2015/16
 
+Avtor: Katja Keržič
 Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 ## Tematika
