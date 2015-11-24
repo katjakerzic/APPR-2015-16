@@ -8,7 +8,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2015/16.
 
 Naslov mojega projekta je: Analiza svetovnih cen žit. V projektu bom analizirala spremembe cen žit v letih od 2009 do 2013. Projekt bo v tabeli vseboval države sveta in različne vrste žit (pšenica, ječmen, rž...).
 
-Moj cilj je ugotoviti, kako so se gibale svetovne cene žit (2009-2013), potem pa primerjati te podatke s podatki o spremembah cen po posameznih kontinentih v istem obdobju. 
+Moj cilj je ugotoviti, kako so se gibale svetovne cene žit (2010-2014)potem pa primerjati te podatke s spremembami cen po posameznih kontinentih v istem obdobju. 
 
 Podatke za projekt sem dobila na spletni strani Organizacije Združenih narodov za prehrano in kmetijstvo: http://faostat3.fao.org/download/P/PP/E
 
