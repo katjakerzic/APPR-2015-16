@@ -18,3 +18,11 @@ obcine <- uvozi.obcine()
 # datoteko, tukaj pa bi klicali tiste, ki jih potrebujemo v
 # 2. fazi. Seveda bi morali ustrezno datoteko uvoziti v prihodnjih
 # fazah.
+
+
+uvozi.zita <- function() {
+  return(read.table("podatki/zita1.csv", sep = ";", as.is = TRUE,
+                    col.names = c("drzava", "vrsta pridelka", "enota", "2010", "2011", "2012", "2013", "2014"),
+                    fileEncoding = "Windows-1250"))
+}
+
